@@ -1,0 +1,22 @@
+/* 
+  Language.strings
+  ChangeLanguage
+
+  Created by Next on 16/10/20.
+  Copyright © 2016年 Next. All rights reserved.
+*/
+
+//English
+
+"apple" = "apple";
+"Language" = "Language";
+
+"Change Display Language" = "Change Display Language";
+"System Language" = "English";
+"System Language: " = "System Language: ";
+"Following system" = "Following system";
+"labelText" = "Language switch APP, you can choose APP language as: \"English\", \"simplified Chinese\", \"follow the system\".";
+"Alert Message" = "Do you want to switch to:";
+
+"Confirm" = "Confirm";
+"Cancel" = "Cancel";
